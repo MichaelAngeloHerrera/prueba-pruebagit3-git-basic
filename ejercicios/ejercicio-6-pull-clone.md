@@ -65,3 +65,7 @@ npm test ejercicio/6
 Si pasa todos los test, continúa con el siguiente ejercicio.
 
 ¡Excelente! Ya dominas la sincronización con GitHub.
+
+## Última actualización
+Editado desde GitHub web interface
+
